@@ -1,0 +1,6 @@
+raw_files/
+processed_files/transactions_with_cohorts.csv
+processed_files/*.csv
+!processed_files/retention_table.csv
+
+.ipynb_checkpoints/
